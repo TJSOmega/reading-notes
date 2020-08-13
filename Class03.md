@@ -1,8 +1,8 @@
 # Learning Journal Day 3
 ## Using Git and GitHub
-** Today's Primary lesson is using the Git command in terminal **
+**Today's Primary lesson is using the Git command in terminal**
 
-* What is Git? *
+*What is Git?*
 Git is what you would call a DVCS or Distributed Version Control it is a tool that is created to allow collaboration between team members easier, and provide a greater level of control to administration.
 
 Git:
