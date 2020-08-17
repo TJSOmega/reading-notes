@@ -27,8 +27,13 @@ Sudo rm -rf *= Most dangerous command of all time.
 Coding tools:
 
 VS Code.
+
 Windows Terminal (App)
+
 Ubuntu App
+
 Node
+
 Git
+
 Homebrew
