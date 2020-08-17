@@ -11,9 +11,7 @@ Ls: List all folders
 	
 Cd: Change Directory
 	Cd: .. = Go back
-	
 	Cd: ~ = Go Home
-	
 	Cd: ../../../ = Go back multiple
 	
 Mkdir: Make a directory
