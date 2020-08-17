@@ -1,4 +1,4 @@
-#Reading Notes Journal for CodeFellows COurse 102.
+# Reading Notes Journal for CodeFellows COurse 102.
 
 
 
