@@ -11,7 +11,9 @@ Ls: List all folders
 	
 Cd: Change Directory
 	Cd: .. = Go back
+	
 	Cd: ~ = Go Home
+	
 	Cd: ../../../ = Go back multiple
 	
 Mkdir: Make a directory
@@ -19,7 +21,9 @@ Mkdir: Make a directory
 Touch: Create New File
 
 Rm: Remove
+
 Rm -r: Remove a folder
+
 Rm -rf: Remove a folder forcefully (No need for permission)
 
 Sudo rm -rf *= Most dangerous command of all time.
